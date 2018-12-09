@@ -13,7 +13,6 @@ def main():
 	os.system('cls')
 	print("Logme - Logging system v1.0 \nCopyright Accalina\n")
 
-
 	try:
 		if sys.argv[1] == 'write':
 			writefile()
